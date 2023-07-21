@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction to Presentationware",
+    "content": "Welcome to the Presentationware session! In this interactive presentation, we'll explore the features and benefits of our presentationware tool designed to share information effectively using bullet points.",
+    "subBullets": [
+      { "id": "1a", "title": "- Purpose of the Presentation", "content": "Introduce participants to the capabilities of our presentationware and its focus on interactive bullet points." },
+      { "id": "1b", "title": "- Speaker Introduction", "content": "The presenter introduces themselves and shares their insights on the significance of clear and concise data presentation." }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Key Features of Presentationware",
+    "content": "Our presentationware provides a user-friendly experience for navigating through interactive bullet points.",
+    "subBullets": [
+      { "id": "2a", "title": "- Bullet Point Creation", "content": "Easily create and organize bullet points with text to convey information succinctly." },
+      { "id": "2b", "title": "- Data Navigation", "content": "Navigate through the bullet points seamlessly to control the flow of the interactive data presentation." },
+      { "id": "2c", "title": "- No Animation", "content": "The focus is on simplicity; there are no animations to distract from the content." }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "User-Friendly Interface",
+    "content": "Our presentationware offers an intuitive and straightforward user interface for data navigation.",
+    "subBullets": [
+      { "id": "3a", "title": "- Easy Navigation Controls", "content": "Participants can easily move forward or backward through the interactive bullet points." },
+      { "id": "3b", "title": "- User-Controlled Pace", "content": "Presenters and participants can control the pace of the interactive data presentation." }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Simplified Sharing Options",
+    "content": "Sharing the interactive data presentation is hassle-free with our presentationware.",
+    "subBullets": [
+      { "id": "4a", "title": "- Export Data", "content": "Users can export the interactive bullet points as structured data for easy sharing and distribution." },
+      { "id": "4b", "title": "- Web Meeting Integration", "content": "Integrate with web meeting platforms to present the interactive data remotely to global audiences." }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Conclusion",
+    "content": "In conclusion, our interactive presentationware provides a simple and effective way to deliver information using bullet points. Enhance your data presentations with our user-friendly tool!",
+    "subBullets": [
+      { "id": "5a", "title": "- Q&A Session", "content": "Engage the audience with a Q&A session to address any queries about the interactive presentationware." },
+      { "id": "5b", "title": "- Thank You", "content": "Express gratitude to the audience for their participation in the interactive data presentation." }
+    ]
+  }
+]
