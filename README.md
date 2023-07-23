@@ -33,25 +33,21 @@ Presentationware is a console-based presentation tool that allows you to create 
 3. Navigate to the presentationware directory in your terminal.
 4. Install the required dependencies by running the following command:
 
-\`\`\`bash
-npm install
-\`\`\`
+```npm i```
 
 ## Usage
 
 To launch the presentationware, use the following command:
 
-\`\`\`bash
-node present.js [filename]
-\`\`\`
+```node present.js [filename]```
 
-- \`filename\` (optional): Specify the name of the JSON file containing your presentation content. If not provided, the default \`presentation.json\` will be used.
+- `filename` (optional): Specify the name of the JSON file containing your presentation content. If not provided, the default `presentation.json` will be used.
 
 ## Presentation Content
 
 Create a JSON file to define the content of your presentation. The JSON file should have the following structure:
 
-\`\`\`json
+```json
 [
   {
     "id": "1",
@@ -70,28 +66,28 @@ Create a JSON file to define the content of your presentation. The JSON file sho
   },
   // Add more sections as needed
 ]
-\`\`\`
+```
 
 - Each section is defined as an object with \`id\`, \`title\`, and \`content\`.
 - For sections with sub-bullets, use the \`subBullets\` property to define them.
 
 ## Command-Line Options
 
-- \`filename\` (optional): Specify the name of the JSON file containing your presentation content. If not provided, the default \`presentation.json\` will be used.
+- `filename` (optional): Specify the name of the JSON file containing your presentation content. If not provided, the default \`presentation.json\` will be used.
 
 ## Examples
 
 1. Launch presentation using the default \`presentation.json\` file:
 
-\`\`\`bash
+```bash
 node present.js
-\`\`\`
+```
 
 2. Launch presentation using a custom JSON file:
 
-\`\`\`bash
+```bash
 node present.js my_presentation.json
-\`\`\`
+```
 
 ## Contributing
 
